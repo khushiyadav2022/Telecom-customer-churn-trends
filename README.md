@@ -1,5 +1,6 @@
 # Telecom-customer-churn-trends
 "Stop the loss, keep the connection: A summary of telecom customer churn trends."
+![](https://editor.analyticsvidhya.com/uploads/94357telecom%20churn.png)
 
 [EXCEL FILE](https://github.com/khushiyadav2022/Telecom-customer-churn-trends/blob/ee093fc6be022652943501cef4779b621f26ec24/telecom_customer_churn_excel.zip)<br>
 [Presentation](https://github.com/khushiyadav2022/Telecom-customer-churn-trends/blob/ee093fc6be022652943501cef4779b621f26ec24/Telcomm%20customer%20churn%20trends.pdf)
