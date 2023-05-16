@@ -4,7 +4,7 @@
 
 [EXCEL FILE](https://github.com/khushiyadav2022/Telecom-customer-churn-trends/blob/ee093fc6be022652943501cef4779b621f26ec24/telecom_customer_churn_excel.zip)<br>
 [Presentation](https://github.com/khushiyadav2022/Telecom-customer-churn-trends/blob/ee093fc6be022652943501cef4779b621f26ec24/Telcomm%20customer%20churn%20trends.pdf)
-
+[Dashboard](https://github.com/khushiyadav2022/Telecom-customer-churn-trends/blob/537681997160be300dd6330c8fd2972747302523/Telecom%20Customer%20Churn%20Analysis.twbx)
 
 
 **Overview of the Data:**<br> 
